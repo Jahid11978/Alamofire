@@ -1,3 +1,12 @@
+---
+
+**Owner:** Jahid  
+**Email:** jahid11978@outlook.com  
+**Platform:** JAHIDS.AI  
+**Organization:** mdjahid11978-design  
+
+---
+
 ![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/AlamofireLogo.png)
 
 [![Swift](https://img.shields.io/badge/Swift-6.0_6.1_6.2_6.3_6.4-orange?style=flat-square)](https://img.shields.io/badge/Swift-6.0_6.1_6.2_6.3_6.4-Orange?style=flat-square)

@@ -1,16 +1,18 @@
-### Issue Link :link:
-<!-- What issue does this fix? If an issue doesn't exist, remove this section. -->
+## Summary
 
-### Goals :soccer:
-<!-- List the high-level objectives of this pull request. -->
-<!-- Include any relevant context. -->
+Describe your changes.
 
-### Implementation Details :construction:
-<!-- Explain the reasoning behind any architectural changes. -->
-<!-- Highlight any new functionality. -->
+## Validation
 
-### Testing Details :mag:
-<!-- Describe what tests you've added for your changes. -->
+- [ ] Build Passed
+- [ ] Tests Passed
+- [ ] Security Review Complete
 
-### AI Disclosure :robot:
-<!-- In your own words, describe how AI was used in this PR. If it wasn't used, feel free to delete this section. -->
+## Governance
+
+- [ ] Owner Review Required
+
+---
+Owner: Jahid
+Platform: JAHIDS.AI
+Contact: jahid11978@outlook.com
